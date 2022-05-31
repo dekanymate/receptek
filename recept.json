@@ -1,0 +1,25 @@
+{
+    "receptek": [
+        {
+            "nev": "Articsóka leves",
+            "elkeszitesiIdo": "10 perc",
+            "kep": "kepek/articsokaleves.jpg",
+            "leiras": "Így kell elkészíteni az articsókát",
+            "hozzavalok": "articsóka"
+        },
+        {
+            "nev": "Pörkölt",
+            "elkeszitesiIdo": "35 perc",
+            "kep": "kepek/porkolt.jpg",
+            "leiras": "Így kell elkészíteni a pörköltöt",
+            "hozzavalok": "hús"
+        },
+        {
+            "nev": "Somlói galuska",
+            "elkeszitesiIdo": "60 perc",
+            "kep": "kepek/somloi.jpg",
+            "leiras": "Így kell elkészíteni a somlóit",
+            "hozzavalok": "cuccok"
+        }
+    ]
+}
